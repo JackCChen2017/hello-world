@@ -19,7 +19,7 @@ def main():
         Person('jill'),
         Person('bob'),
         Person('banana'),
-        Person('master1')
+        Person('feature2')
     ]
 
     person = choice(people)
