@@ -18,7 +18,8 @@ def main():
         Person('jane'),
         Person('jill'),
         Person('bob'),
-        Person('banana')
+        Person('banana'),
+        Person('master1')
     ]
 
     person = choice(people)
